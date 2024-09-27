@@ -1,6 +1,6 @@
 {
 	"progressbar": false,
-	"refreshConfigInMins": 360,
+	"refreshConfigInMins": 1440,
 	"home_channels": {
 		"continue_watching": false
 	},
@@ -52,7 +52,7 @@
 	},
 	"onBoarding": {
 		"onBoardingVideo": {
-			"enabled": true
+			"enabled": false
 		}
 	},
 	"conviva": {
