@@ -1,20 +1,22 @@
 # My list of domains to block with adblock-fast
-acs.sdmc.tv
+flume.vtvanalytics.com
 ae.iads.unity3d.com
 gateway.unityads.unity3d.com
 analytics.tiktok.com
-assets.msn.com
-img-s-msn-com.akamaized.net
 bf.dynatrace.com
-deff.nelreports.net
 incoming.telemetry.mozilla.org
-iot-eu-logser.realme.com
 log.core.cloud.vewd.com
-meta.ndmdhs.com
 js-agent.newrelic.com
 mobile-collector.newrelic.com
-videoplaza.tv
 w3-reporting.reddit.com
+
+acs.sdmc.tv
+assets.msn.com
+img-s-msn-com.akamaized.net
+deff.nelreports.net
+iot-eu-logser.realme.com
+videoplaza.tv
+meta.ndmdhs.com
 
 # Amazon
 analyticsengine.s3.amazonaws.com
