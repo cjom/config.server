@@ -1,0 +1,50 @@
+# My list of domains to block with adblock-fast
+acs.sdmc.tv
+ae.iads.unity3d.com
+gateway.unityads.unity3d.com
+analytics.tiktok.com
+assets.msn.com
+img-s-msn-com.akamaized.net
+bf.dynatrace.com
+deff.nelreports.net
+incoming.telemetry.mozilla.org
+iot-eu-logser.realme.com
+log.core.cloud.vewd.com
+meta.ndmdhs.com
+js-agent.newrelic.com
+mobile-collector.newrelic.com
+videoplaza.tv
+w3-reporting.reddit.com
+
+# Amazon
+analyticsengine.s3.amazonaws.com
+checkip.amazonaws.com
+checkip.check-ip.aws.a2z.com
+checkip.eu-west-1.prod.check-ip.aws.a2z.com
+
+# Google
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+www.googletagmanager.com
+googleads.g.doubleclick.net
+
+# Roblox
+client-telemetry.roblox.com
+gold.roblox.com
+metrics.roblox.com
+tracing.roblox.com
+ecsv2.roblox.com
+lms.roblox.com/report
+ncs.roblox.com/upload
+ams2-128-116-21-3.roblox.com
+atl1-128-116-99-3.roblox.com
+dfw2-128-116-95-3.roblox.com
+lax2-128-116-116-3.roblox.com
+nrt1-128-116-120-3.roblox.com
+ord2-128-116-101-3.roblox.com
+
+# NordVPN
+applytics.napps-1.com
+
+# QNAP (don't use MyQNAP, HIGH ramsomware exploit risk!)
+myqnapcloud.com
