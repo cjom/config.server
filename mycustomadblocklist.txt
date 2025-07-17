@@ -25,10 +25,22 @@ checkip.check-ip.aws.a2z.com
 checkip.eu-west-1.prod.check-ip.aws.a2z.com
 
 # Google
+cctldtest.google-analytics.com
+click.google-analytics.com
+click.googleanalytics.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
-www.googletagmanager.com
+firebaseremoteconfig.googleapis.com
+google-analytics.com
 googleads.g.doubleclick.net
+people-pa.googleapis.com
+playatoms-pa.googleapis.com
+sandbox.google-analytics.com
+ssl.google-analytics.com
+ssl.googleanalytics.com
+www.google-analytics.com
+www.googleanalytics.com
+www.googletagmanager.com
 
 # Roblox
 client-telemetry.roblox.com
