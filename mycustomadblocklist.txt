@@ -48,8 +48,8 @@ gold.roblox.com
 metrics.roblox.com
 tracing.roblox.com
 ecsv2.roblox.com
-lms.roblox.com/report
-ncs.roblox.com/upload
+lms.roblox.com
+ncs.roblox.com
 ams2-128-116-21-3.roblox.com
 atl1-128-116-99-3.roblox.com
 dfw2-128-116-95-3.roblox.com
